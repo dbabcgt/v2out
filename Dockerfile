@@ -23,4 +23,4 @@ RUN chmod +x /entrypoint.sh
 
 ENTRYPOINT  /entrypoint.sh 
 
-EXPOSE 22345
+EXPOSE 8866
